@@ -1,17 +1,34 @@
-## Hi there 👋
 
-in development...
-<!--
-**Tor9p/tor9p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there, I'm Max👋</h1>
+<h3 align="center">Developer • Technology enthusiast • Cyber security enthusiast.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6A9955&center=true&vCenter=true&width=600&lines=Write+code,+which+work;love+learning+new+security+technologies;" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Technologies and tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,html,css,git,linux,vscode,github" />
+</p>
+
+
+---
+
+### 💬 About me
+
+- Как связаться со мной: fw@macaw.me
+
+
+---
+
+<div align="center">
+  <sub>in development...</sub>
+</div>
+
+
