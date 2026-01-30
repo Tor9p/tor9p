@@ -22,7 +22,7 @@
 
 ### 💬 About me
 
-- Как связаться со мной: fw@macaw.me
+- How to contact me: fw@macaw.me
 
 
 ---
