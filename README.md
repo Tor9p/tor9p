@@ -22,7 +22,7 @@
 
 ### 💬 About me
 
-- How to contact me: fw@macaw.me
+> How to contact me: fw@macaw.me (support DeltaChat)
 
 
 ---
